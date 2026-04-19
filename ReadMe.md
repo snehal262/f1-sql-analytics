@@ -11,18 +11,6 @@ A collection of SQL queries analysing 75 years of Formula 1 data across 1,125 ra
 
 ---
 
-## Skills Demonstrated
-
-- Joins across multiple tables
-- Aggregations — COUNT, SUM, AVG, ROUND
-- GROUP BY, HAVING, ORDER BY
-- CASE WHEN for conditional logic
-- Window functions — RANK, DENSE_RANK, LAG
-- CTEs (Common Table Expressions)
-- Subquery chaining
-
----
-
 ## Queries Overview
 
 | # | Query | Description |
